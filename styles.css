@@ -1,0 +1,110 @@
+/* Your existing CSS styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+body {
+  background: url('dietco.jpg') no-repeat center center fixed;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  padding: 40px;
+  margin: 0;
+}
+
+.container {
+  background-color: rgba(255, 255, 255, 0.39);
+  padding: 25px 40px 10px 40px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.89);
+  width: 90%;
+  max-width: 400px;
+  max-height: 95vh;
+  overflow: hidden;
+}
+
+h1 {
+  text-align: center;
+  color: #00ffaa8a;
+  margin-bottom: 10px;
+  margin-top: 0;
+}
+
+.container form {
+  padding: 5% 8px;
+}
+
+.container form .form-group {
+  margin-bottom: 20px;
+}
+
+.form-group {
+  margin-bottom: 12px;
+}
+
+input,
+select,
+textarea {
+  width: 100%;
+  text-align: justify;
+  padding: 15px;
+  margin-top: 0px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
+button {
+  width: 40%; /* Adjust width as needed */
+  padding: 10px;
+  margin-top: 0px;
+  background-color: #00ff9d6c;
+  color: rgba(255, 255, 255, 0.692);
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+button:hover {
+  background-color: #0012b33a;
+}
+
+.hidden {
+  display: none;
+}
+
+#diet-plan {
+  background-color: rgba(255, 255, 255, 0.027);
+  padding: 7px;
+  border-radius: 2px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  margin-top: 0px;
+}
+
+#diet-plan h2,
+#diet-plan h3 {
+  color: #9dff00b2;
+}
+
+#diet-plan ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+#diet-plan li {
+  background: rgba(228, 228, 228, 0.795);
+  margin: 5px 0;
+  padding: 5px;
+  border-radius: 5px;
+  font-size: 15px;
+}
+
+
+
+
