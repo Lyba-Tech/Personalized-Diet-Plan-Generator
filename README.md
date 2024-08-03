@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e7b1cb48-911f-4a0a-8ccc-a381bd90efb6)# Personalized-Diet-Plan-Generator
+# Personalized-Diet-Plan-Generator
 
 ![Demo (3)](https://github.com/user-attachments/assets/a1c32f06-fa46-49a6-ac2f-e5bc65672707)
 
